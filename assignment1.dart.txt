@@ -1,0 +1,16 @@
+void main() {
+  print("markSheet");
+  var math=34;
+  var english=22;
+  var urdu=45;
+  var per=100;
+  var total=50;
+   print ("Your Math Percentage is: ");
+  print((math/total)*100);
+ print ("Your English Percentage is: ");
+  print((english/total)*100);
+ print ("Your Urdu Percentage is: ");
+  print((urdu/total)*100);
+ 
+  
+}
